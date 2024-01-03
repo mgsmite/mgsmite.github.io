@@ -1,3 +1,8 @@
 body {
     background-color: forestgreen;
 }
+
+.right-header {
+    position: relative;
+    right: auto;
+}
