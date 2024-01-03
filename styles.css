@@ -6,9 +6,6 @@ body {
     position: relative;
 }
 
-#yt-button {
-    background-image: url("assets/yt-logo.png");
-}
 
 .right-header {
     position: absolute;
