@@ -7,7 +7,7 @@ body {
 }
 
 #yt-button {
-    background-image: "assets/yt-logo.png";
+    background-image: url("assets/yt-logo.png");
 }
 
 .right-header {
