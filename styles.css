@@ -2,6 +2,11 @@ body {
     background-color: forestgreen;
 }
 
+#header {
+    position: relative;
+}
+
 .right-header {
-    float: right;
+    position: absolute;
+    right: 0px;
 }
