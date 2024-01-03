@@ -3,6 +3,5 @@ body {
 }
 
 .right-header {
-    position: relative;
-    right: auto;
+    margin-right: auto;
 }
