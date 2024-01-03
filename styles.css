@@ -3,5 +3,5 @@ body {
 }
 
 .right-header {
-    margin-right: auto;
+    float: right;
 }
