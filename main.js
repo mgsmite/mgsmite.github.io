@@ -5,3 +5,7 @@ document.getElementById("yt-button").onclick = function () {
 document.getElementById("snake").onclick = function () {
     location.href = "/games/snake/snake.html";
 };
+
+document.getElementById("tetris").onclick = function () {
+    location.href = "/games/tetris/tetris.html";
+};
